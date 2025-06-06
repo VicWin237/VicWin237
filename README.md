@@ -1,5 +1,5 @@
-## Hi there 👋
-
+ Hi there 👋
+I'm currently learning bioinformatic and manipulation of mRNA in a Plants molecular biology lab.
 <!--
 **VicWin237/VicWin237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
